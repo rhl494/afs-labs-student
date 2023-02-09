@@ -1,4 +1,4 @@
---
+-- Added comment for git commit
 -- PostgreSQL database dump
 --
 
