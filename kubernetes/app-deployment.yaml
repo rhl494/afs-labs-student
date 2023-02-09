@@ -31,4 +31,3 @@ spec:
         image: harbor.dev.afsmtddso.com/rahul-saxena-harbor-project/app:971c881-b2de601
         ports:
         - containerPort: 5000
-//
